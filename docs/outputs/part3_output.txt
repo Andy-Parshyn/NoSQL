@@ -1,0 +1,148 @@
+
+=== Завдання 1. Топ-10 виконавців за середньою популярністю ===
+[
+  {
+    tracks_count: 5,
+    artist: 'Olivia Rodrigo',
+    avg_popularity: 87.4
+  },
+  {
+    tracks_count: 12,
+    artist: 'Måneskin',
+    avg_popularity: 83.67
+  },
+  {
+    tracks_count: 11,
+    artist: 'Lil Nas X',
+    avg_popularity: 83.45
+  },
+  {
+    tracks_count: 5,
+    artist: 'One Direction',
+    avg_popularity: 83
+  },
+  {
+    tracks_count: 5,
+    artist: 'TV Girl',
+    avg_popularity: 82
+  },
+  {
+    tracks_count: 6,
+    artist: 'Bomba Estéreo',
+    avg_popularity: 81.5
+  },
+  {
+    tracks_count: 7,
+    artist: 'Mora',
+    avg_popularity: 79.71
+  },
+  {
+    tracks_count: 7,
+    artist: 'Beach Bunny',
+    avg_popularity: 79.43
+  },
+  {
+    tracks_count: 9,
+    artist: 'Mitski',
+    avg_popularity: 78.89
+  },
+  {
+    tracks_count: 7,
+    artist: 'Jhay Cortez',
+    avg_popularity: 78.71
+  }
+]
+
+=== Завдання 2. Розподіл треків за настроєм ===
+[
+  {
+    count: 43404,
+    mood: 'happy'
+  },
+  {
+    count: 38761,
+    mood: 'angry'
+  },
+  {
+    count: 23086,
+    mood: 'sad'
+  },
+  {
+    count: 8748,
+    mood: 'calm'
+  }
+]
+
+=== Завдання 3. Найбільш танцювальні жанри ===
+[
+  {
+    tracks_count: 1000,
+    genre: 'kids',
+    avg_danceability: 0.779,
+    avg_energy: 0.613,
+    avg_valence: 0.681
+  },
+  {
+    tracks_count: 1000,
+    genre: 'chicago-house',
+    avg_danceability: 0.766,
+    avg_energy: 0.733,
+    avg_valence: 0.587
+  },
+  {
+    tracks_count: 1000,
+    genre: 'reggaeton',
+    avg_danceability: 0.759,
+    avg_energy: 0.739,
+    avg_valence: 0.643
+  },
+  {
+    tracks_count: 1000,
+    genre: 'latino',
+    avg_danceability: 0.757,
+    avg_energy: 0.732,
+    avg_valence: 0.63
+  },
+  {
+    tracks_count: 1000,
+    genre: 'reggae',
+    avg_danceability: 0.745,
+    avg_energy: 0.726,
+    avg_valence: 0.648
+  },
+  {
+    tracks_count: 1000,
+    genre: 'hip-hop',
+    avg_danceability: 0.736,
+    avg_energy: 0.683,
+    avg_valence: 0.551
+  },
+  {
+    tracks_count: 1000,
+    genre: 'dancehall',
+    avg_danceability: 0.734,
+    avg_energy: 0.685,
+    avg_valence: 0.629
+  },
+  {
+    tracks_count: 1000,
+    genre: 'minimal-techno',
+    avg_danceability: 0.729,
+    avg_energy: 0.68,
+    avg_valence: 0.284
+  },
+  {
+    tracks_count: 1000,
+    genre: 'detroit-techno',
+    avg_danceability: 0.723,
+    avg_energy: 0.711,
+    avg_valence: 0.469
+  },
+  {
+    tracks_count: 1000,
+    genre: 'latin',
+    avg_danceability: 0.722,
+    avg_energy: 0.727,
+    avg_valence: 0.631
+  }
+]
